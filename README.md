@@ -22,6 +22,7 @@ brew install --cask hcuong-me/tap/<name>
 
 ### Formulae
 - `zenv` — Secure environment variable manager for zsh
+- `siyuan-cli` — CLI for SiYuan Note
 
 ### Casks
 
