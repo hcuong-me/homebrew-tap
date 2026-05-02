@@ -21,6 +21,7 @@ brew install --cask hcuong-me/tap/<name>
 ## Packages
 
 ### Formulae
+- `zenv` — Secure environment variable manager for zsh
 
 ### Casks
 
