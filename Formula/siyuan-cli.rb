@@ -1,17 +1,17 @@
 class SiyuanCli < Formula
   desc "CLI for SiYuan Note"
   homepage "https://github.com/hcuong-me/siyuan-cli"
-  version "0.0.5"
+  version "0.0.6"
 
   on_macos do
     on_arm do
-      url "https://github.com/hcuong-me/siyuan-cli/releases/download/v0.0.5/siyuan-cli-darwin-arm64"
-      sha256 "fb3fa1ae47cdd0d6dd586c552b9ee186086d066128c7ff778c7e5441d7f2557f"
+      url "https://github.com/hcuong-me/siyuan-cli/releases/download/v0.0.6/siyuan-cli-darwin-arm64"
+      sha256 "ed847e00013413ad65320be4437ad52bdbf5c0063c0d62e6249962aa15374518"
     end
 
     on_intel do
-      url "https://github.com/hcuong-me/siyuan-cli/releases/download/v0.0.5/siyuan-cli-darwin-amd64"
-      sha256 "3652142899f1b9f0d258f9d02cafe4f899d949d3c194a6f84d3e91ead395d29a"
+      url "https://github.com/hcuong-me/siyuan-cli/releases/download/v0.0.6/siyuan-cli-darwin-amd64"
+      sha256 "2af72a93d6c8aedb487181ca8f0f32125d732d1658ae381c33688f1c7ccec682"
     end
   end
 
