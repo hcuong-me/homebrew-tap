@@ -1,9 +1,9 @@
 class Zenv < Formula
   desc "Secure environment variable manager for zsh"
   homepage "https://github.com/hcuong-me/zenv"
-  url "https://github.com/hcuong-me/zenv/releases/download/v1.0.0/zenv"
-  version "1.0.0"
-  sha256 "fbec938f826590204893d8c3dfbe7b14853714c9fd0e64794026b323cffc6c6d"
+  url "https://github.com/hcuong-me/zenv/releases/download/v1.0.1/zenv"
+  version "1.0.1"
+  sha256 "1498495152716fc42d0ee59977d305d198331e9a812a1527d101932f0f9e4b18"
   license "MIT"
 
   depends_on :macos
